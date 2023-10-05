@@ -22,6 +22,9 @@
 
 
 @protocol SASSPSplashDelegate <NSObject>
+@required
+
+@optional
 
 /**
  This method is called when splash ad material loaded successfully.

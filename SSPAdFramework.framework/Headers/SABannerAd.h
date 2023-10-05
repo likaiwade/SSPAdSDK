@@ -13,6 +13,9 @@
 
 
 @protocol SASSPBannerDelegate <NSObject>
+@required
+
+@optional
 
 /**
  *  请求广告条数据成功后调用

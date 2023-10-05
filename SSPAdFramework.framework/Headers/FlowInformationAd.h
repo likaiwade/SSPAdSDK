@@ -8,8 +8,9 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 @protocol FlowInformationDelegate <NSObject>
+@required
 
-
+@optional
 
 //自渲染
 /**
@@ -90,7 +91,7 @@
 
 @interface FlowInformationAd : NSObject<FlowInformationDelegate>
 
-@property (nonatomic, weak) id<FlowInformationDelegate> delegate;
+@property (nonatomic, weak,nullable) id<FlowInformationDelegate> delegate;
 
 /**
  超时时间
