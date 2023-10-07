@@ -1,17 +1,18 @@
 Pod::Spec.new do |s|
 
   s.name         = "SSPAdSDK"
-  s.version      = "1.1.6"
+  s.version      = "1.1.7"
   s.summary      = "SSPAdSDK"
 
 
   s.homepage     = "https://www.baidu.com/"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = {     "likai": "likaiwade1991@sina.com"}
-  s.ios.deployment_target = "11.0"
+  s.ios.deployment_target = "10.0"
+  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.frameworks = ["SystemConfiguration","UIKit","CoreTelephony","AdSupport"]
   s.libraries = [ "z","resolv.9","sqlite3","c++","c++abi"]
-  s.source = {:git => "", :tag => s.version}
+  s.source = {:git => "https://github.com/likaiwade/SSPAdSDK.git", :tag => s.version}
   s.resources =  "*.bundle"
   s.ios.vendored_frameworks = '*.framework'
   s.dependency 'Ads-CN', '~> 5.4.0.9'
