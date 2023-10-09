@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SSPAdSDK"
-  s.version      = "1.1.7"
+  s.version      = "1.1.8"
   s.summary      = "SSPAdSDK"
 
 
@@ -20,5 +20,6 @@ Pod::Spec.new do |s|
   s.dependency 'Masonry', '~> 1.1.0'
   s.dependency 'GDTMobSDK', '~> 4.14.42'
   s.dependency 'AFNetworking', '~> 4.0.1'
+  s.dependency 'SDWebImageWebPCoder', '~> 0.13.0'
 
 end

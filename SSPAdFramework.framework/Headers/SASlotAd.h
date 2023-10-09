@@ -13,6 +13,7 @@
 typedef enum : NSUInteger {
     Ad_Native,//模板
     Ad_UN_Native,//自渲染
+    Ad_New_Native,//新模板
 } SAAdType;
 /*
  SSP广告位id

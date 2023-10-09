@@ -21,4 +21,5 @@ FOUNDATION_EXPORT const unsigned char SSPAdFrameworkVersionString[];
 #import <SSPAdFramework/SASlotAd.h>
 #import <SSPAdFramework/SASDKConfig.h>
 #import <SSPAdFramework/SAModel.h>
+#import <SSPAdFramework/SANewBannerAd.h>
 
