@@ -40,6 +40,14 @@
 		<data>
 		aiJul/nkCQ2F+Ld+9i2f9oUviyU=
 		</data>
+		<key>ksad_mark@2x.png</key>
+		<data>
+		pWtn40+lKUgD2qtj6wwdj6OQgQc=
+		</data>
+		<key>ksad_mark@3x.png</key>
+		<data>
+		jmWZKhdDiNa3f5+bNDC8PN2C6OY=
+		</data>
 		<key>lemon_logo.png</key>
 		<data>
 		SVgYxSS66MwKLz4TG3DfB+ah5M4=
@@ -168,6 +176,28 @@
 			<key>hash2</key>
 			<data>
 			itN7QSdP7CKYQGm3ZIasYsCBiiFRoxPSHMMl/x0H6Cc=
+			</data>
+		</dict>
+		<key>ksad_mark@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pWtn40+lKUgD2qtj6wwdj6OQgQc=
+			</data>
+			<key>hash2</key>
+			<data>
+			C22HlfKWlBmEfFl5b2e+6Ur2j2TRPm+gjExz5jrN070=
+			</data>
+		</dict>
+		<key>ksad_mark@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jmWZKhdDiNa3f5+bNDC8PN2C6OY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SMWPJuUszUh675w3F1eAFdkR4EdGJOd+DIkQOs8P3wE=
 			</data>
 		</dict>
 		<key>lemon_logo.png</key>
