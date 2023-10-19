@@ -136,6 +136,7 @@
 
 @property (nonatomic, weak) UIViewController * _Nullable rootViewController;
 
+@property (nonatomic, weak) UIWindow * _Nullable window;
 
 @end
 
