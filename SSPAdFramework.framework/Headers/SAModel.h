@@ -126,7 +126,7 @@ CGSize_SSP(CGFloat width,CGFloat height){
 @interface SA_sdkinfo :NSObject
 
 @property (nonatomic , assign) NSInteger              ntagflag;
-@property (nonatomic , assign) NSInteger              catid;
+@property (nonatomic , copy) NSString              * catid;
 @property (nonatomic , assign) NSInteger              sdkPrice;
 @property (nonatomic , assign) NSInteger              sdkpri;
 @property (nonatomic , assign) NSInteger              sdkdelay;
