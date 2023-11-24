@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SSPAdSDK"
-  s.version      = "1.2.2"
+  s.version      = "1.2.4"
   s.summary      = "SSPAdSDK"
 
 
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.resources =  "*.bundle"
   s.ios.vendored_frameworks = '*.framework'
   s.dependency 'Ads-CN', '~> 5.4.0.9'
-  s.dependency 'KSAdSDK', '~> 3.3.51.1'
+  s.dependency 'KSAdSDK', '~> 3.3.55'
   s.dependency 'Masonry', '~> 1.1.0'
   s.dependency 'GDTMobSDK', '~> 4.14.42'
   s.dependency 'AFNetworking', '~> 4.0.1'
