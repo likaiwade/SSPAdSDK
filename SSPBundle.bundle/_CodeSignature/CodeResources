@@ -76,6 +76,14 @@
 		<data>
 		CvTe2PR8hfO+9jdEqWs4uThdJB0=
 		</data>
+		<key>wandawhite@2x.png</key>
+		<data>
+		JpsTn0gP6vq6W9prlQhUv0uclF0=
+		</data>
+		<key>wandawhite@3x.png</key>
+		<data>
+		MLW0czdSMsoFfuYCGhZ3CZH6/VY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -275,6 +283,28 @@
 			<key>hash2</key>
 			<data>
 			Rm0+m0LzBJLQYbncWarqnnOQH3qzKCa56kyREesMEsU=
+			</data>
+		</dict>
+		<key>wandawhite@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JpsTn0gP6vq6W9prlQhUv0uclF0=
+			</data>
+			<key>hash2</key>
+			<data>
+			j1cGj1hOeYv4MAUeHm/o2yzUklkeRXZXrmHs+5Af2AQ=
+			</data>
+		</dict>
+		<key>wandawhite@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MLW0czdSMsoFfuYCGhZ3CZH6/VY=
+			</data>
+			<key>hash2</key>
+			<data>
+			/KpjeODiiep+dKtFUEnlrwenWhBILkqSfYWL90Rj66k=
 			</data>
 		</dict>
 	</dict>

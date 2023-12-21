@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SSPAdSDK"
-  s.version      = "1.2.5"
+  s.version      = "1.2.6"
   s.summary      = "SSPAdSDK"
 
 
@@ -21,5 +21,6 @@ Pod::Spec.new do |s|
   s.dependency 'GDTMobSDK', '~> 4.14.42'
   s.dependency 'AFNetworking', '~> 4.0.1'
   s.dependency 'SDWebImageWebPCoder', '~> 0.13.0'
+  s.dependency 'WechatOpenSDK-XCFramework', '~> 2.0.2'
 
 end

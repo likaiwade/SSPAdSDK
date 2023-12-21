@@ -88,13 +88,14 @@ CGSize_SSP(CGFloat width,CGFloat height){
 @property (nonatomic , copy) NSString              * ldp;
 @property (nonatomic , copy) NSString              * tempid;
 @property (nonatomic , copy) NSString              * apkname;
-@property (nonatomic , copy) NSString              * packageName;
+@property (nonatomic , copy) NSString              * packagename;
 @property (nonatomic , copy) NSString              * videourl;
 @property (nonatomic , assign) NSInteger              duration;
 @property (nonatomic , copy) NSArray<NSString *>              * imgurl;
 @property (nonatomic , copy) NSString              * desc;
 @property (nonatomic , copy) NSString              * adm;
 @property (nonatomic , copy) NSString              * deeplink;
+@property (nonatomic , copy) NSString              * miniApp;
 @property (nonatomic , copy) NSString              * adsource;
 @property (nonatomic , copy) NSString              * logourl;
 @property (nonatomic , assign) NSInteger                isfull;
